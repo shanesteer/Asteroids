@@ -1,5 +1,5 @@
 # Asteroids
-This is the classic 2D game Asteroids with a score system based on how fast you destroy all the asteroids and enemies
+This is the classic 2D game Space Invaders with a score system based on how fast you destroy all the asteroids and enemies
 
 
 1.	When the run button in IntelliJ is pressed to run the program, the board for the game is initialized.

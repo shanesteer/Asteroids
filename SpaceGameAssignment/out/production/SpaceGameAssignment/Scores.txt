@@ -1,0 +1,12 @@
+charlse: 22
+eren: 25
+oliver: 31
+shane: 32
+null: 34
+alexa: 39
+applebees: 49
+randall: 49
+reece: 63
+sebastian: 74
+andrew: 76
+mikasa: 92
